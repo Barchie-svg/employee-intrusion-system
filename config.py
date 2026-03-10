@@ -14,6 +14,7 @@ SUPABASE_KEY = os.environ.get(
 SECRET_KEY = os.environ.get("SECRET_KEY", "supersecretkey-ids-2026")
 
 # ── Email (Gmail) ──────────────────────────────────────────
-ADMIN_EMAIL     = os.environ.get("ADMIN_EMAIL",     "ivybarchebo40@gmail.com")
-SENDER_EMAIL    = os.environ.get("SENDER_EMAIL",    "ivybarchebo40@gmail.com")
-SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "oqcfpzwewjccjtgt")
+ADMIN_EMAIL     = os.environ.get("ADMIN_EMAIL",     "ivybarchebo916@gmail.com")
+SENDER_EMAIL    = os.environ.get("SENDER_EMAIL",    "ivybarchebo916@gmail.com")
+SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "xqrxaujtfnzofplc
+")
